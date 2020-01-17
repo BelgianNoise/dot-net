@@ -1,0 +1,11 @@
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+D:\Documenten\WorkspaceDotNet\dist\csharp\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
